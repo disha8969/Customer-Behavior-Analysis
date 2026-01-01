@@ -64,11 +64,13 @@ Run the Python Notebook
 Open Customer_Behavior_Analysis.ipynb to:
 Import and explore data
 Clean and preprocess data
+
 Load data into SQL database
 SQL Analysis
 Create a database in PostgreSQL / MySQL / SQL Server
 Execute queries from customer_behavior_sql_queries.sql
 Answer business questions using SQL
+
 Power BI
 Connect Power BI to the SQL database
 Open customer_behavior_dashboard.pbix
